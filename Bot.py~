@@ -42,7 +42,7 @@ def Scrap_Text(url):
 
     
 
-URL = input("Seed input >> :")
+URL = input("Enter URL :")
 URL_list.append(URL)
 
 
